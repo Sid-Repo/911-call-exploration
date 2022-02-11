@@ -1,6 +1,8 @@
 # 911-call-exploration
 
-Exploration of 911 calls dataset
+Exploration of emergency 911 calls from Montco, PA.
+
+Dataset source: https://www.kaggle.com/umeshnarayanappa/explore-911-data
 
 # Library version
 
